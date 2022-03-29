@@ -3,10 +3,10 @@
 
 
 1. Install the required libraries from
-We need to install the geoopt library (https://github.com/geoopt/geoopt) to run the necessary hyperbolic functions
 ```
 !pip install -r requirements.txt
 ```
+This also installs the geoopt library (https://github.com/geoopt/geoopt) to run the necessary hyperbolic functions
 2. Dataset generation
 
 dataset_gen folder provides script for processing the datasets after download
