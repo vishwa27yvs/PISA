@@ -3,9 +3,9 @@ EISA and PISA
 
 
 1. Install the required libraries from
-
+```
 !pip install -r requirements.txt
-
+```
 2. Dataset generation
 
 dataset_gen folder provides script for processing the datasets after download
