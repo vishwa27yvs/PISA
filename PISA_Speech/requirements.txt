@@ -1,0 +1,3 @@
+wavio
+chainer
+geoopt==0.1.2
