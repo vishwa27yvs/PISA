@@ -19,3 +19,5 @@ The instructions to run the corresponding models have been added to the respecti
 
 - Speech Codes have been borrowed from: https://github.com/mil-tokyo/bc_learning_sound
 - Vision Codes have been borrrowed from: https://github.com/snu-mllab/PuzzleMix
+
+You can download the entire repo by downloading and extracting PISA-main.zip 
