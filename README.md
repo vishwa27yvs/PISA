@@ -1,6 +1,8 @@
 # PISA
 PISA: PoIncaré Saliency-Aware Interpolative Augmentation
 
+Here you can find the code for PoIncaré Saliency-Aware Interpolative Augmentation, commands for executing different experiments are present in the specific directories
+
 For Speech Experiments:
 
 ```
