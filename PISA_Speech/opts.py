@@ -40,7 +40,7 @@ def parse():
     parser.add_argument(
         "--ignorePad",
         type=int,
-        default=0,
+        default=1,
         help="Ignore padding when computing saliency",
         choices=[0, 1],
     )
